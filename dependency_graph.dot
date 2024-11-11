@@ -1,0 +1,488 @@
+strict digraph "" {
+	"Definition:
+Atom: <Const 4198797>
+CodeLoc: <0x401189 id=0x401189[1] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x401189 id=0x401189[1] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x40118d id=0x401189[5] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x40118d id=0x401189[6] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x40118d id=0x401189[5] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP<8> (stack)>
+CodeLoc: <0x40118d id=0x401189[7] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198797}}>";
+	"Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x401189(-) contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x40118d id=0x401189[6] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x40118d id=0x401189[6] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x401191 id=0x401189[16] contextless>
+Tags: ";
+	"Definition:
+Atom: <Mem SP<8> (stack)>
+CodeLoc: <0x40118d id=0x401189[7] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198797}}>" -> "Definition:
+Atom: <Reg rbp<8>>
+CodeLoc: <0x40118e id=0x401189[11] contextless>
+Tags: ";
+	"Definition:
+Atom: <Mem SP<8> (stack)>
+CodeLoc: <0x40118d id=0x401189[7] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198797}}>" -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[2] contextless>
+Tags: ";
+	"Definition:
+Atom: <Mem SP<8> (stack)>
+CodeLoc: <0x40118d id=0x401189[7] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198797}}>" -> "Definition:
+Atom: <Reg rbp<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[4] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198798>
+CodeLoc: <0x40118d id=0x401189[8] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x40118d id=0x401189[8] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rbp<8>>
+CodeLoc: <0x40118e id=0x401189[11] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011ac id=0x401189[51] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rbp<8>>
+CodeLoc: <0x40118e id=0x401189[11] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[6] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198801>
+CodeLoc: <0x40118e id=0x401189[12] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x40118e id=0x401189[12] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 48>
+CodeLoc: <0x401191 id=0x401189[15] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x401191 id=0x401189[16] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x401191 id=0x401189[16] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011b6 id=0x401189[64] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198805>
+CodeLoc: <0x401191 id=0x401189[17] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x401191 id=0x401189[17] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 18446744073709551576>
+CodeLoc: <0x401195 id=0x401189[20] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x28<8> (stack)>
+CodeLoc: <0x401195 id=0x401189[22] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198805}}>";
+	"Definition:
+Atom: <Reg rdi<8>>
+CodeLoc: <0x401189(-) contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x28<8> (stack)>
+CodeLoc: <0x401195 id=0x401189[22] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198805}}>";
+	"Definition:
+Atom: <Mem SP-0x28<8> (stack)>
+CodeLoc: <0x401195 id=0x401189[22] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198805}}>" -> "Definition:
+Atom: <Reg rdx<8>>
+CodeLoc: <0x4011a8 id=0x401189[46] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198809>
+CodeLoc: <0x401195 id=0x401189[23] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x401195 id=0x401189[23] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 40>
+CodeLoc: <0x401199 id=0x401189[26] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg fs<8>>
+CodeLoc: [External []]
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x401199 id=0x401189[28] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg fs<8>>
+CodeLoc: [External []]
+Tags: " -> "Definition:
+Atom: <Reg cc_dep2<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[16] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg fs<8>>
+CodeLoc: [External []]
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[17] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg fs<8>>
+CodeLoc: [External []]
+Tags: " -> "Definition:
+Atom: <Guard 0x4011d0>
+CodeLoc: <0x4011c9 id=0x4011bb[25] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x401199 id=0x401189[28] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x8<8> (stack)>
+CodeLoc: <0x4011a2 id=0x401189[34] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198818}}>";
+	"Definition:
+Atom: <Const 4198818>
+CodeLoc: <0x401199 id=0x401189[29] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x401199 id=0x401189[29] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 18446744073709551608>
+CodeLoc: <0x4011a2 id=0x401189[32] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x8<8> (stack)>
+CodeLoc: <0x4011a2 id=0x401189[34] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198818}}>";
+	"Definition:
+Atom: <Mem SP-0x8<8> (stack)>
+CodeLoc: <0x4011a2 id=0x401189[34] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198818}}>" -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011bc id=0x4011bb[6] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198822>
+CodeLoc: <0x4011a2 id=0x401189[35] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011a2 id=0x401189[35] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 19>
+CodeLoc: <0x4011a6 id=0x401189[37] contextless>
+Tags: " -> "Definition:
+Atom: <Reg cc_op<8>>
+CodeLoc: <0x4011a6 id=0x401189[37] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 0>
+CodeLoc: <0x4011a6 id=0x401189[38] contextless>
+Tags: " -> "Definition:
+Atom: <Reg cc_dep1<8>>
+CodeLoc: <0x4011a6 id=0x401189[38] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 0>
+CodeLoc: <0x4011a6 id=0x401189[39] contextless>
+Tags: " -> "Definition:
+Atom: <Reg cc_dep2<8>>
+CodeLoc: <0x4011a6 id=0x401189[39] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 0>
+CodeLoc: <0x4011a6 id=0x401189[40] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011a6 id=0x401189[40] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198824>
+CodeLoc: <0x4011a6 id=0x401189[41] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011a6 id=0x401189[41] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 18446744073709551576>
+CodeLoc: <0x4011a8 id=0x401189[44] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rdx<8>>
+CodeLoc: <0x4011a8 id=0x401189[46] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsi<8>>
+CodeLoc: <0x4011b0 id=0x401189[55] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198828>
+CodeLoc: <0x4011a8 id=0x401189[47] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011a8 id=0x401189[47] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 18446744073709551598>
+CodeLoc: <0x4011ac id=0x401189[50] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011ac id=0x401189[51] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011ac id=0x401189[51] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rdi<8>>
+CodeLoc: <0x4011b3 id=0x401189[59] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198832>
+CodeLoc: <0x4011ac id=0x401189[52] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011ac id=0x401189[52] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198835>
+CodeLoc: <0x4011b0 id=0x401189[56] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011b0 id=0x401189[56] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198838>
+CodeLoc: <0x4011b3 id=0x401189[60] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011b3 id=0x401189[60] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011b6 id=0x401189[63] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011b6 id=0x401189[64] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011b6 id=0x401189[63] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x38<8> (stack)>
+CodeLoc: <0x4011b6 id=0x401189[65] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198838}}>";
+	"Definition:
+Atom: <Const 4198843>
+CodeLoc: <0x4011b6 id=0x401189[65] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x38<8> (stack)>
+CodeLoc: <0x4011b6 id=0x401189[65] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198838}}>";
+	"Definition:
+Atom: <Mem SP-0x38<8> (stack)>
+CodeLoc: <0x4011b6 id=0x401189[65] contextless>
+Tags: <LocalVariableTag {Metadata: {'\
+tagged_by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198838}}>" -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011cb id=0x4011cb[3] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 128>
+CodeLoc: <0x4011b6 id=0x401189[66] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198512>
+CodeLoc: <0x4011b6 id=0x401189[-2] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198516>
+CodeLoc: <0x401070 id=0x401070[1] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x401070 id=0x401070[1] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4210624>
+CodeLoc: <0x401074 id=0x401070[3] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rsi<8>>
+CodeLoc: <0x401074 id=0x401070[-2] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x401070(-) contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rdi<8>>
+CodeLoc: <0x401074 id=0x401070[-2] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x401070(-) contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198844>
+CodeLoc: <0x4011bb id=0x4011bb[1] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011bb id=0x4011bb[1] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 18446744073709551608>
+CodeLoc: <0x4011bc id=0x4011bb[4] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011bc id=0x4011bb[6] contextless>
+Tags: " -> "Definition:
+Atom: <Reg cc_dep1<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[15] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011bc id=0x4011bb[6] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[17] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rax<8>>
+CodeLoc: <0x4011bc id=0x4011bb[6] contextless>
+Tags: " -> "Definition:
+Atom: <Guard 0x4011d0>
+CodeLoc: <0x4011c9 id=0x4011bb[25] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198848>
+CodeLoc: <0x4011bc id=0x4011bb[7] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011bc id=0x4011bb[7] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 40>
+CodeLoc: <0x4011c0 id=0x4011bb[10] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011c0 id=0x4011bb[14] contextless>
+Tags: " -> "Definition:
+Atom: <Reg cc_op<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[14] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198857>
+CodeLoc: <0x4011c0 id=0x4011bb[18] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011c0 id=0x4011bb[18] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198859>
+CodeLoc: <0x4011c9 id=0x4011bb[-2] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011cb id=0x4011cb[2] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011cb id=0x4011cb[3] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011cb id=0x4011cb[2] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x38<8> (stack)>
+CodeLoc: <0x4011cb id=0x4011cb[4] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198859}}>";
+	"Definition:
+Atom: <Const 4198864>
+CodeLoc: <0x4011cb id=0x4011cb[4] contextless>
+Tags: " -> "Definition:
+Atom: <Mem SP-0x38<8> (stack)>
+CodeLoc: <0x4011cb id=0x4011cb[4] contextless>
+Tags: <LocalVariableTag {Metadata: {'tagged_\
+by': 'SimEngineRDVEX._store_core', 'ins_addr': 4198859}}>";
+	"Definition:
+Atom: <Const 128>
+CodeLoc: <0x4011cb id=0x4011cb[5] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198544>
+CodeLoc: <0x4011cb id=0x4011cb[-2] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011d0 id=0x4011d0[5] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[6] contextless>
+Tags: ";
+	"Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[6] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d1 id=0x4011d0[12] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 4198865>
+CodeLoc: <0x4011d0 id=0x4011d0[7] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rip<8>>
+CodeLoc: <0x4011d0 id=0x4011d0[7] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 8>
+CodeLoc: <0x4011d1 id=0x4011d0[11] contextless>
+Tags: " -> "Definition:
+Atom: <Reg rsp<8>>
+CodeLoc: <0x4011d1 id=0x4011d0[12] contextless>
+Tags: ";
+	"Definition:
+Atom: <Const 128>
+CodeLoc: <0x4011d1 id=0x4011d0[13] contextless>
+Tags: ";
+}
